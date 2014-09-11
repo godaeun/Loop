@@ -22,3 +22,4 @@ function setup() {
 {
   ellipse(x * 100, 100, 50, 50);
 }
+}
